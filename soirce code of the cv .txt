@@ -1,0 +1,106 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{enumitem}
+\usepackage{geometry}
+\geometry{margin=0.9cm}
+\usepackage{titlesec}
+\usepackage{parskip}
+\setlength{\parskip}{0.5pt}
+\setlist{itemsep=0.3pt, topsep=0.3pt}
+\usepackage{multicol}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\linespread{1.05}
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+
+\usepackage{xcolor}
+\usepackage[most]{tcolorbox}
+
+\titleformat{\section}{\Large\bfseries}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{1pt}{0.5pt}
+
+\begin{document}
+
+\begin{center}
+ {\Huge \textbf{Youssef Khaled Gaber}}\\[1pt]
+ Cairo, Egypt \quad | \quad +20 10 01657201 \quad | \quad 
+ \href{mailto:yousefkhaled101806@gmail.com}{yousefkhaled101806@gmail.com} \\[1pt]
+ \href{https://www.linkedin.com/in/yousef-khaled-2b49322b2/}{https://www.linkedin.com/in/yousef-khaled-2b49322b2/}
+\end{center}
+
+\section*{Summary}
+Motivated Electronics and Communication Engineering student with a strong foundation in networking, cybersecurity, and embedded systems. Passionate about technology and problem-solving with hands-on exposure to networking concepts, cyber threats, and system security. Eager to apply technical knowledge in real-world engineering environments.
+
+\section*{Education}
+\small
+\noindent
+\textbf{El Shorouk Academy, Cairo} \hfill \textit{Sep 2023 -- 2028 (Expected)} \\
+Bachelor of Electronics \& Communication Engineering \\
+
+Developing knowledge in communication systems, electronics, networking fundamentals, and signal processing. \\
+\normalsize
+
+\vspace{-1pt}
+
+\section*{Skills}
+\begin{multicols}{2}
+\begin{itemize}[leftmargin=*]
+ \item Networking Fundamentals
+ \item Cybersecurity Basics
+ \item Cisco Packet Tracer
+ \item Network Security Concepts
+ \item Problem Solving
+ \item Linux Basics
+ \item Wireshark
+ \item Embedded Systems Basics
+ \item C Programming
+ \item Python Basics
+ \item Digital Electronics
+ \item Communication Systems
+\end{itemize}
+\end{multicols}
+
+\vspace{-6pt}
+
+\section*{Certifications}
+\noindent
+\textbf{Cisco Networking Academy} \hfill \textit{Oct 2025} \\
+\textit{Introduction to Cybersecurity}
+\begin{itemize}[leftmargin=*]
+ \item Gained understanding of cybersecurity principles and online safety.
+ \item Learned about common cyber threats, attacks, and vulnerabilities.
+ \item Explored methods for protecting personal and organizational systems.
+ \item Introduced to career paths in cybersecurity.
+\end{itemize}
+
+\vspace{-2pt}
+
+\section*{Projects}
+{\large
+\begin{itemize}[leftmargin=*, itemsep=2pt]
+
+ \item \textbf{Basic Network Design using Packet Tracer} – \\
+ Designed and simulated small-scale network topologies including routers, switches, and end devices. \\
+ \textit{Tools: Cisco Packet Tracer.}
+
+ \item \textbf{Cybersecurity Case Study} – \\
+ Analyzed common cyber attacks and proposed mitigation techniques based on cybersecurity best practices. \\
+
+ \item \textbf{Electronics Mini Projects} – \\
+ Built and tested simple electronic circuits including logic gates and basic analog circuits. \\
+ \textit{Tools: Breadboard, Basic Components.}
+
+\end{itemize}
+}
+\normalsize
+
+\vspace{-4pt}
+
+\section*{Languages}
+\begin{tcolorbox}[colback=gray!5, colframe=black!50, boxrule=0.4pt, arc=2mm, left=6pt, right=6pt, top=6pt, bottom=6pt]
+\centering
+\textbf{Arabic}: Native \quad\textbar\quad \textbf{English}: Intermediate
+\end{tcolorbox}
+
+\end{document}
