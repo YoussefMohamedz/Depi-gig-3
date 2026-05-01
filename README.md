@@ -1,2 +1,11 @@
-# Depi-gig-3
-i made 2 portfolio website integrated with cv website with html , css , javascript
+sites links : 
+
+
+
+First website 
+
+https://crafted-connect-me.lovable.app/yousef
+
+seconed website
+
+https://yousefport-8aydzvlb.manus.space/
